@@ -41,6 +41,14 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ### Monitoring + Alerts
 ![Alert Rule](Screenshots/alert-rule.png)
 
+## Monitoring & Alerts
+
+Azure Monitor was configured to track VM performance and security signals.
+A CPU alert rule was created to notify when VM-Web-01 exceeds 50% CPU usage.
+
+### Alert Rule (CPU > 50%)
+![CPU Alert Rule](Screenshots/alert-rule.png)
+
 
 ## ARM/Bicep Templates
 
