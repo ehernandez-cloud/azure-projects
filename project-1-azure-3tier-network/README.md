@@ -19,44 +19,30 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 
 ## Screenshots
 
+## Screenshots
+
 ### Resource Group
-![RG](Screenshots/RG-creation.png)
+![Resource Group](Screenshots/RG-creation.png)
 
 ### VNet + Subnets
 ![Subnets](Screenshots/subnets-creation.png)
 
-### NSG-Web
+### NSG Rules (Web + App)
 ![NSG Web](Screenshots/NSG-Web-inbound-rules.png)
-
-### NSG-App
 ![NSG App](Screenshots/NSG-App-Inbound-Rule.png)
 
-### Virtual Machine Overview
+### VM – Overview / Networking / Security Rules
 ![VM Overview](Screenshots/VM-overview.png)
-
-### VM Networking (Web Subnet)
 ![VM Networking](Screenshots/VM-networking.png)
+![VM Effective NSG Rules](Screenshots/VM-effective-security-rules.png)
 
-### VM Effective Security Rules
-![VM Effective Rules](Screenshots/VM-effective-security-rules.png)
+### Backup Configuration
+![Backup Items](Screenshots/backup-items.png)
+![Backup Job](Screenshots/backup-job.png)
 
-### Recovery Services Vault Overview
-![RSV Overview](Screenshots/RSV-overview.png)
+### Monitoring + Alerts
+![Alert Rule](Screenshots/alert-rule.png)
 
-### VM Backup Configuration
-![Backup Config](Screenshots/VM-backup-config.png)
-
-### Backup Job Status
-![Backup Job](Screenshots/VM-backup-job.png)
-
-### VM Diagnostic Settings
-![VM Diagnostics](Screenshots/VM-diagnostics.png)
-
-## Alert Rule (CPU > 50%)
-
-This alert rule monitors VM-Web-01 and triggers when CPU usage exceeds 50%.
-
-![CPU Alert Rule](Screenshots/alert-rule.png)
 
 ## ARM/Bicep Templates
 
