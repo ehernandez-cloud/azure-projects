@@ -38,8 +38,6 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ![Backup Items](Screenshots/VM-backup-config.png)
 ![Backup Job](Screenshots/VM-backup-job.png)
 
-### Monitoring + Alerts
-![Alert Rule](Screenshots/alert-rule.png)
 
 ## Monitoring & Alerts
 
