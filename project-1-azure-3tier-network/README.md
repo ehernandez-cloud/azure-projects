@@ -40,6 +40,15 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ### VM Effective Security Rules
 ![VM Effective Rules](Screenshots/VM-effective-security-rules.png)
 
+### Recovery Services Vault Overview
+![RSV Overview](Screenshots/RSV-overview.png)
+
+### VM Backup Configuration
+![Backup Config](Screenshots/VM-backup-config.png)
+
+### Backup Job
+![Backup Job](Screenshots/VM-backup-job.png)
+
 ## ARM/Bicep Templates
 
 ## Notes/Learnings
