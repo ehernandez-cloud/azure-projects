@@ -50,6 +50,13 @@ A CPU alert rule was created to notify when VM-Web-01 exceeds 50% CPU usage.
 ![CPU Alert Rule](Screenshots/alert-rule.png)
 
 
-## ARM/Bicep Templates
+## Notes / Learnings
 
-## Notes/Learnings
+- Learned how to build a secure 3-tier network architecture in Azure.
+- Understood how NSGs control traffic between tiers and enforce segmentation.
+- Practiced VM deployment, public/private IP configuration, and subnet design.
+- Configured Azure Backup with a Recovery Services Vault and triggered a backup job.
+- Explored Azure Monitor (Insights, Metrics, Alerts) to enable real-time monitoring.
+- Created an alert rule to detect high CPU usage.
+- Improved practical Azure skills and documented the project step-by-step using GitHub.
+
