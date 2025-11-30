@@ -18,7 +18,6 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 - Documenting the project with screenshots
 
 ## Screenshots
-## Screenshots
 
 ### Resource Group
 ![RG](Screenshots/RG-creation.png)
