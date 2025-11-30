@@ -46,7 +46,7 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ### VM Backup Configuration
 ![Backup Config](Screenshots/VM-backup-config.png)
 
-### Backup Job
+### Backup Job Status
 ![Backup Job](Screenshots/VM-backup-job.png)
 
 ## ARM/Bicep Templates
