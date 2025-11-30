@@ -31,6 +31,15 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ### NSG-App
 ![NSG App](Screenshots/NSG-App-Inbound-Rule.png)
 
+### Virtual Machine Overview
+![VM Overview](Screenshots/VM-overview.png)
+
+### VM Networking (Web Subnet)
+![VM Networking](Screenshots/VM-networking.png)
+
+### VM Effective Security Rules
+![VM Effective Rules](Screenshots/VM-effective-security-rules.png)
+
 ## ARM/Bicep Templates
 
 ## Notes/Learnings
