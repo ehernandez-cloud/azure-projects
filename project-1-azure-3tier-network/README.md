@@ -18,7 +18,19 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 - Documenting the project with screenshots
 
 ## Screenshots
+## Screenshots
 
+### Resource Group
+![RG](Screenshots/RG-creation.png)
+
+### VNet + Subnets
+![Subnets](Screenshots/subnets-creation.png)
+
+### NSG-Web
+![NSG Web](Screenshots/NSG-Web-inbound-rules.png)
+
+### NSG-App
+![NSG App](Screenshots/NSG-App-Inbound-Rule.png)
 
 ## ARM/Bicep Templates
 
