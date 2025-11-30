@@ -52,6 +52,12 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ### VM Diagnostic Settings
 ![VM Diagnostics](Screenshots/VM-diagnostics.png)
 
+## Alert Rule (CPU > 50%)
+
+This alert rule monitors VM-Web-01 and triggers when CPU usage exceeds 50%.
+
+![CPU Alert Rule](Screenshots/alert-rule.png)
+
 ## ARM/Bicep Templates
 
 ## Notes/Learnings
