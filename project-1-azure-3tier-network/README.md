@@ -35,8 +35,8 @@ This project demonstrates the deployment of a secure 3-tier network architecture
 ![VM Effective NSG Rules](Screenshots/VM-effective-security-rules.png)
 
 ### Backup Configuration
-![Backup Items](Screenshots/backup-items.png)
-![Backup Job](Screenshots/backup-job.png)
+![Backup Items](Screenshots/VM-backup-config.png)
+![Backup Job](Screenshots/VM-backup-job.png)
 
 ### Monitoring + Alerts
 ![Alert Rule](Screenshots/alert-rule.png)
